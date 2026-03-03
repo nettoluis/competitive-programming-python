@@ -1,6 +1,6 @@
-# `nettoluis/codeforces-python`
+# `nettoluis/competitive-programming-python`
 
-> Minhas resoluções de problemas do Codeforces, implementadas em Python.
+> Minhas resoluções de problemas do Codeforces, Beecrowd e CSES implementadas em Python.
 
 [![Status](https://img.shields.io/badge/status-ativo-success.svg)]()
 [![Linguagem](https://img.shields.io/badge/linguagem-Python-blue.svg)]()
@@ -9,7 +9,7 @@
 
 ## 💻 Sobre o Repositório
 
-Este repositório serve como um portfólio e diário de aprendizado das minhas jornadas em programação competitiva, focando nos problemas da plataforma **Codeforces**. Aqui, você encontrará minhas soluções para diversos problemas, todas escritas em **Python**.
+Este repositório serve como um portfólio e diário de aprendizado das minhas jornadas em programação competitiva, focando nos problemas da plataforma **Codeforces, Beecrowd e CSES** . Aqui, você encontrará minhas soluções para diversos problemas, todas escritas em **Python**.
 
 ## 🚀 Objetivo
 

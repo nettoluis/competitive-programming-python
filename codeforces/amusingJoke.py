@@ -1,0 +1,5 @@
+convidado = input()
+anfitriao = input()
+letras = sorted([x for x in input()])
+letrasNomes = sorted([x for x in convidado] + [x for x in anfitriao])
+print('YES') if letras == letrasNomes else print('NO')
